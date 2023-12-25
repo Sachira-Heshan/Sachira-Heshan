@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sachiraheshan99@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1GjjWpDcfnvNkzvhV3kH73Rkar8uQxmJ-/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1eKZ--7rm2X0yQRduEbvMsQQkaySAif7S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
