@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Sachira-Heshan?tab=repositories)
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React.js, React Native, MERN, Next.js**
 
 - 📫 How to reach me **sachiraheshan99@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1eKZ--7rm2X0yQRduEbvMsQQkaySAif7S/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1SM4eMVP2erEAsCwsIuKuSP_tUERsw8Os/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
