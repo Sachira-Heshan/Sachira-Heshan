@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sachira Heshan</h1>
+<h1 align="center">Hi 👋, I'm Sachira Karunarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachira-Heshan&label=Profile%20views&color=0e75b6&style=flat" alt="Sachira-Heshan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sachira-Heshan" alt="Sachira-Heshan" /></a> </p>
 
-- 🌱 I’m currently final year **computer engineering undergraduate**
+- 🌱 I’m currently an **Associate Software Engineer**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Sachira-Heshan?tab=repositories)
 
-- 💬 Ask me about **React.js, React Native, MERN, Next.js**
+- 💬 Ask me about **Python, Java, React.js, React Native, Next.js**
 
 - 📫 How to reach me **sachiraheshan99@gmail.com**
 
